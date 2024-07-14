@@ -4,9 +4,6 @@ from flask_cors import CORS, cross_origin
 app = Flask(__name__)
 CORS(app)
 
-API_KEY = "53f1b64d-5042-47b5-b3d8-8f6da5f95cb3"
-
-
 class News:
     def __init__(self, tit, des, img):
         self.tit = tit
@@ -96,10 +93,6 @@ news_list = [news1, news2, news3, news4, news5, news6, news7, news8, news9, news
 @app.route('/api/news', methods=['GET'])
 @cross_origin()
 def get_news():
-    api_key = request.args.get('api_key')
-
-    if api_key != API_KEY:
-        return jsonify({'error': 'Invalid API key'}), 401
 
     news_data = []
     for news in news_list:
