@@ -1,8 +1,10 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, abort
 from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
 CORS(app)
+
+API_KEY = '1234567890abcdef1234567890abcmnb'
 
 class News:
     def __init__(self, tit, des, img):
@@ -89,9 +91,18 @@ news24 = News("iPhone 12 Pro Max",
 # Store news objects in a list
 news_list = [news1, news2, news3, news4, news5, news6, news7, news8, news9, news10, news11, news12, news13, news14, news15, news16, news17, news18, news19, news20, news21, news22, news23, news24]
 
+def require_api_key(view_function):
+    def decorated_function(*args, **kwargs):
+        api_key = request.args.get('api_key')
+        if api_key and api_key == API_KEY:
+            return view_function(*args, **kwargs)
+        else:
+            abort(401)  # Unauthorized
+    return decorated_function
 
 @app.route('/api/news', methods=['GET'])
 @cross_origin()
+@require_api_key
 def get_news():
 
     news_data = []
