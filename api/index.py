@@ -16,76 +16,76 @@ class News:
 # Create news objects
 news1 = News("Iphone 14 Pro",
              "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
-             "https://netrinoimages.s3.eu-west-2.amazonaws.com/2022/12/08/1373191/426752/iphone_14_pro_max_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4402727_o.png")
+             "https://picsum.photos/1000")
 news2 = News("New iPadOS 17",
              "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
-             "https://b2c-contenthub.com/wp-content/uploads/2023/06/iPadOS-17-lock-screen-customization.jpg?quality=50&strip=all&w=1200")
+             "https://picsum.photos/1000")
 news3 = News("New General AI",
              "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
-             "https://rare-gallery.com/thumbs/1170002-white-digital-art-simple-background-robot-vehicle-sculpture-technology-Toy-machine-artificial-intelligence-Hi-Tech-hand-product.jpg")
+             "https://picsum.photos/1000")
 news4 = News("Samsung S22 Ultra",
              "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
-             "https://cdn.dxomark.com/wp-content/uploads/medias/post-112004/Samsung-Galaxy-S22-Ultra-Snapdragon_Yoast-image-packshot-review-Recovered-1.jpg")
+             "https://picsum.photos/1000")
 news5 = News("Redmi Note 12 Pro 5G",
              "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
-             "https://i0.wp.com/www.xiaomiboutique.com/wp-content/uploads/2023/05/Redmi-Note-12-Pro-5G_pms_1679660364.87997620.png?fit=1600%2C1600&ssl=1")
+             "https://picsum.photos/1000")
 news6 = News("iPhone 12 Pro Max",
              "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
-             "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-max-gold-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202937000")
+             "https://picsum.photos/1000")
 news7 = News("Iphone 14 Pro",
              "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
-             "https://netrinoimages.s3.eu-west-2.amazonaws.com/2022/12/08/1373191/426752/iphone_14_pro_max_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4402727_o.png")
+             "https://picsum.photos/1000")
 news8 = News("New iPadOS 17",
              "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
-             "https://b2c-contenthub.com/wp-content/uploads/2023/06/iPadOS-17-lock-screen-customization.jpg?quality=50&strip=all&w=1200")
+             "https://picsum.photos/1000")
 news9 = News("New General AI",
              "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
-             "https://rare-gallery.com/thumbs/1170002-white-digital-art-simple-background-robot-vehicle-sculpture-technology-Toy-machine-artificial-intelligence-Hi-Tech-hand-product.jpg")
+             "https://picsum.photos/1000")
 news10 = News("Samsung S22 Ultra",
              "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
-             "https://cdn.dxomark.com/wp-content/uploads/medias/post-112004/Samsung-Galaxy-S22-Ultra-Snapdragon_Yoast-image-packshot-review-Recovered-1.jpg")
+             "https://picsum.photos/1000")
 news11 = News("Redmi Note 12 Pro 5G",
              "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
-             "https://i0.wp.com/www.xiaomiboutique.com/wp-content/uploads/2023/05/Redmi-Note-12-Pro-5G_pms_1679660364.87997620.png?fit=1600%2C1600&ssl=1")
+             "https://picsum.photos/1000")
 news12 = News("iPhone 12 Pro Max",
              "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
-             "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-max-gold-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202937000")
+             "https://picsum.photos/1000")
 news13 = News("Iphone 14 Pro",
              "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
-             "https://netrinoimages.s3.eu-west-2.amazonaws.com/2022/12/08/1373191/426752/iphone_14_pro_max_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4402727_o.png")
+             "https://picsum.photos/1000")
 news14 = News("New iPadOS 17",
              "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
-             "https://b2c-contenthub.com/wp-content/uploads/2023/06/iPadOS-17-lock-screen-customization.jpg?quality=50&strip=all&w=1200")
+             "https://picsum.photos/1000")
 news15 = News("New General AI",
              "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
-             "https://rare-gallery.com/thumbs/1170002-white-digital-art-simple-background-robot-vehicle-sculpture-technology-Toy-machine-artificial-intelligence-Hi-Tech-hand-product.jpg")
+             "https://picsum.photos/1000")
 news16 = News("Samsung S22 Ultra",
              "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
-             "https://cdn.dxomark.com/wp-content/uploads/medias/post-112004/Samsung-Galaxy-S22-Ultra-Snapdragon_Yoast-image-packshot-review-Recovered-1.jpg")
+             "https://picsum.photos/1000")
 news17 = News("Redmi Note 12 Pro 5G",
              "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
-             "https://i0.wp.com/www.xiaomiboutique.com/wp-content/uploads/2023/05/Redmi-Note-12-Pro-5G_pms_1679660364.87997620.png?fit=1600%2C1600&ssl=1")
+             "https://picsum.photos/1000")
 news18 = News("iPhone 12 Pro Max",
              "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
-             "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-max-gold-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202937000")
+             "https://picsum.photos/1000")
 news19 = News("Iphone 14 Pro",
              "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
-             "https://netrinoimages.s3.eu-west-2.amazonaws.com/2022/12/08/1373191/426752/iphone_14_pro_max_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4402727_o.png")
+             "https://picsum.photos/1000")
 news20 = News("New iPadOS 17",
              "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
-             "https://b2c-contenthub.com/wp-content/uploads/2023/06/iPadOS-17-lock-screen-customization.jpg?quality=50&strip=all&w=1200")
+             "https://picsum.photos/1000")
 news21 = News("New General AI",
              "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
-             "https://rare-gallery.com/thumbs/1170002-white-digital-art-simple-background-robot-vehicle-sculpture-technology-Toy-machine-artificial-intelligence-Hi-Tech-hand-product.jpg")
+             "https://picsum.photos/1000")
 news22 = News("Samsung S22 Ultra",
              "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
-             "https://cdn.dxomark.com/wp-content/uploads/medias/post-112004/Samsung-Galaxy-S22-Ultra-Snapdragon_Yoast-image-packshot-review-Recovered-1.jpg")
+             "https://picsum.photos/1000")
 news23 = News("Redmi Note 12 Pro 5G",
              "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
-             "https://i0.wp.com/www.xiaomiboutique.com/wp-content/uploads/2023/05/Redmi-Note-12-Pro-5G_pms_1679660364.87997620.png?fit=1600%2C1600&ssl=1")
+             "https://picsum.photos/1000")
 news24 = News("iPhone 12 Pro Max",
              "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
-             "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-max-gold-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202937000")
+             "https://picsum.photos/1000")
 
 
 # Store news objects in a list
