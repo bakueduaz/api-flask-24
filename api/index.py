@@ -23,14 +23,14 @@ news2 = News("AirPods Pro 3",
 news3 = News("Apple Watch Ultra 3",
              "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=4")
-news4 = News("iPad Pro 2024",
-             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news4 = News("iPad Pro 2025",
+             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=5")
-news5 = News("MacBook Pro 2024",
-             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news5 = News("MacBook Pro 2025",
+             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=6")
 news6 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
              "https://picsum.photos/400?random=7")
 news7 = News("iPhone 16 Pro Max",
              "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
@@ -41,14 +41,14 @@ news8 = News("AirPods Pro 3",
 news9 = News("Apple Watch Ultra 3",
              "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=10")
-news10 = News("iPad Pro 2024",
-             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news10 = News("iPad Pro 2025",
+             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=11")
-news11 = News("MacBook Pro 2024",
-             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news11 = News("MacBook Pro 2025",
+             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=12")
 news12 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
              "https://picsum.photos/400?random=13")
 news13 = News("iPhone 16 Pro Max",
              "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
@@ -59,14 +59,14 @@ news14 = News("AirPods Pro 3",
 news15 = News("Apple Watch Ultra 3",
              "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=16")
-news16 = News("iPad Pro 2024",
-             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news16 = News("iPad Pro 2025",
+             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=17")
-news17 = News("MacBook Pro 2024",
-             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news17 = News("MacBook Pro 2025",
+             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=18")
 news18 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
              "https://picsum.photos/400?random=19")
 news19 = News("iPhone 16 Pro Max",
              "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
@@ -77,14 +77,14 @@ news20 = News("AirPods Pro 3",
 news21 = News("Apple Watch Ultra 3",
              "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=22")
-news22 = News("iPad Pro 2024",
-             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news22 = News("iPad Pro 2025",
+             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=23")
-news23 = News("MacBook Pro 2024",
-             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news23 = News("MacBook Pro 2025",
+             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=24")
 news24 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
              "https://picsum.photos/400?random=25")
 
 
