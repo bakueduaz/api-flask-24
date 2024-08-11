@@ -14,77 +14,77 @@ class News:
 
 
 # Create news objects
-news1 = News("Iphone 14 Pro",
-             "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
+news1 = News("iPhone 16 Pro Max",
+             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
              "https://picsum.photos/400?random=2")
-news2 = News("New iPadOS 17",
-             "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
+news2 = News("AirPods Pro 3",
+             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
              "https://picsum.photos/400?random=3")
-news3 = News("New General AI",
-             "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
+news3 = News("Apple Watch Ultra 3",
+             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=4")
-news4 = News("Samsung S22 Ultra",
-             "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
+news4 = News("iPad Pro 2024",
+             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=5")
-news5 = News("Redmi Note 12 Pro 5G",
-             "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
+news5 = News("MacBook Pro 2024",
+             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=6")
-news6 = News("iPhone 12 Pro Max",
-             "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
+news6 = News("Apple Vision Pro 2",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
              "https://picsum.photos/400?random=7")
-news7 = News("Iphone 14 Pro",
-             "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
+news7 = News("iPhone 16 Pro Max",
+             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
              "https://picsum.photos/400?random=8")
-news8 = News("New iPadOS 17",
-             "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
+news8 = News("AirPods Pro 3",
+             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
              "https://picsum.photos/400?random=9")
-news9 = News("New General AI",
-             "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
+news9 = News("Apple Watch Ultra 3",
+             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=10")
-news10 = News("Samsung S22 Ultra",
-             "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
+news10 = News("iPad Pro 2024",
+             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=11")
-news11 = News("Redmi Note 12 Pro 5G",
-             "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
+news11 = News("MacBook Pro 2024",
+             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=12")
-news12 = News("iPhone 12 Pro Max",
-             "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
+news12 = News("Apple Vision Pro 2",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
              "https://picsum.photos/400?random=13")
-news13 = News("Iphone 14 Pro",
-             "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
+news13 = News("iPhone 16 Pro Max",
+             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
              "https://picsum.photos/400?random=14")
-news14 = News("New iPadOS 17",
-             "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
+news14 = News("AirPods Pro 3",
+             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
              "https://picsum.photos/400?random=15")
-news15 = News("New General AI",
-             "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
+news15 = News("Apple Watch Ultra 3",
+             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=16")
-news16 = News("Samsung S22 Ultra",
-             "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
+news16 = News("iPad Pro 2024",
+             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=17")
-news17 = News("Redmi Note 12 Pro 5G",
-             "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
+news17 = News("MacBook Pro 2024",
+             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=18")
-news18 = News("iPhone 12 Pro Max",
-             "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
+news18 = News("Apple Vision Pro 2",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
              "https://picsum.photos/400?random=19")
-news19 = News("Iphone 14 Pro",
-             "iPhone 14 Pro and iPhone 14 Pro Max are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529(maximum depth of 6 meters up to 30 minutes.",
+news19 = News("iPhone 16 Pro Max",
+             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
              "https://picsum.photos/400?random=20")
-news20 = News("New iPadOS 17",
-             "iPadOS 17 takes iPad even further. With new levels of personalization, beautiful and helpful custom Lock Screens, and features to help you get more done, iPad is more capable than ever.",
+news20 = News("AirPods Pro 3",
+             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
              "https://picsum.photos/400?random=21")
-news21 = News("New General AI",
-             "The ultimate achievement to some in the AI industry is creating a system with artificial general intelligence (AGI), or the ability to understand and learn any task that a human can.",
+news21 = News("Apple Watch Ultra 3",
+             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
              "https://picsum.photos/400?random=22")
-news22 = News("Samsung S22 Ultra",
-             "The iconic S Pen fits right into S for the first time. Eject it from the bottom to take notes, sketch, edit content with precision or control your phone.",
+news22 = News("iPad Pro 2024",
+             "The iPad Pro 2024 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
              "https://picsum.photos/400?random=23")
-news23 = News("Redmi Note 12 Pro 5G",
-             "Powerful AI algorithms greatly improve image quality and speed. Every priceless moment in your life comes to life, waiting for you to seize.",
+news23 = News("MacBook Pro 2024",
+             "The MacBook Pro 2024 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
              "https://picsum.photos/400?random=24")
-news24 = News("iPhone 12 Pro Max",
-             "The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
+news24 = News("Apple Vision Pro 2",
+             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.)",
              "https://picsum.photos/400?random=25")
 
 
